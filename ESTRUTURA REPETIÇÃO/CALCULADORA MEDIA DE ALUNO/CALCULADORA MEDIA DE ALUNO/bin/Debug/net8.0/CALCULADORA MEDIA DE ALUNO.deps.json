@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CALCULADORA MEDIA DE ALUNO/1.0.0": {
+        "runtime": {
+          "CALCULADORA MEDIA DE ALUNO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CALCULADORA MEDIA DE ALUNO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
